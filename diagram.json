@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "author": "Jack Mills",
+  "editor": "wokwi",
+  "parts": [ { "type": "wokwi-arduino-nano", "id": "nano", "top": -24, "left": -0.5, "attrs": {} } ],
+  "connections": [],
+  "dependencies": {}
+}
